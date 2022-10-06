@@ -12,7 +12,7 @@
 
 ## Video: [Watch Here](https://www.youtube.com/watch?v=C74Hq3HVD0Y)
 ---
-<img src="../media/images/aventador.jpg" width="100%"/>
+<img src="media/images/aventador.jpg" width="100%"/>
 
 ---
 
