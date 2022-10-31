@@ -1,7 +1,7 @@
 # **Asterion**
 
 ---
-##  The Aventador advances every concept of performance, immediately establishing itself as the benchmark for the super sports car sector.
+##  The Asterion advances every concept of performance, immediately establishing itself as the benchmark for the super sports car sector.
 ---
 
 
